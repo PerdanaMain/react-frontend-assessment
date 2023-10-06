@@ -1,0 +1,36 @@
+{
+  "name": "app-react-test",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^1.5.0",
+    "bcrypt": "^5.1.1",
+    "cookies-next": "^4.0.0",
+    "daisyui": "^3.8.0",
+    "jsonwebtoken": "^9.0.2",
+    "next": "latest",
+    "react": "^18",
+    "react-dom": "latest",
+    "sweetalert2": "^11.7.31"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.0",
+    "@types/cookies": "^0.7.8",
+    "@types/jsonwebtoken": "^9.0.3",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest",
+    "typescript": "latest"
+  }
+}
